@@ -1,4 +1,4 @@
-# startup-toast README
+# startup-toast
 
 StartupToast is a lightweight VSCode Extension that allows you to define startup messages that will be displayed when you open VSCode.
 

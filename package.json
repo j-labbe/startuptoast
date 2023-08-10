@@ -2,12 +2,23 @@
   "name": "startup-toast",
   "displayName": "startup-toast",
   "description": "Show a notification of your choice on VSCode startup.",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-labbe/startuptoast"
+  },
+  "publisher": "j-lab1234",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "startup",
+    "toast",
+    "notification",
+    "welcome"
   ],
   "activationEvents": [
     "onStartupFinished"
