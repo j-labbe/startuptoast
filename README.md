@@ -21,3 +21,4 @@ This extension contributes the following settings:
 ## Release Notes
 
 ### 1.0.0 - 8/10/2023
+Initial release.
